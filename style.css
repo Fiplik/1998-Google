@@ -1,0 +1,55 @@
+
+.logo{
+    margin: auto;
+    width: 50%;
+    margin-top: 80px;
+}
+.content{
+    text-align: center;
+    background-color: rgb(220, 223, 223);
+width: 90%;
+    box-sizing: border-box;
+    margin: auto;
+    margin-bottom: 2px;
+
+}
+.box1{
+    background-color: rgb(126, 229, 218);
+    float: left;
+    text-align: center;
+    width:558px ;
+    margin: auto;
+    margin-left: 76px;
+    height: 5rem;
+    margin-right: 2px;
+
+    
+
+}
+.box2{
+    background-color: #70CCc2;
+    float: left;
+    text-align: center;
+    width:16% ;
+    margin: auto;
+    height: 5rem;
+    margin-right: 2px;
+    
+}
+.box3{
+    background-color: #62B3AA;
+    float: left;
+    text-align: center;
+    width:37% ;
+    margin: auto;
+    height: 5rem;
+}
+#footer{
+margin-top: 90px;
+width: 100%;
+padding-left: 43rem;
+padding-top: 15px;
+font-size: 12px;
+
+}
+/** Fiplik
